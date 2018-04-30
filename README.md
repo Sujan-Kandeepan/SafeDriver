@@ -8,4 +8,4 @@ Sophia Choi and Dipinjit Hanspal who were responsible for the back end of the
 application (outlined by the link below) as we also worked on the documentation,
 presentation and version control as a team.
 
-Project overview: https://emilyhorsman.github.io/safe-driver/
+Full project overview: https://emilyhorsman.github.io/safe-driver/
